@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ScreenKeeper</string>
+    <string name="tile_label">Keep screen on</string>
+    <string name="tile_on">On</string>
+    <string name="tile_off">Off</string>
+
+    <string name="channel_name">Keep screen on</string>
+    <string name="channel_description">Shown while ScreenKeeper is keeping the display awake</string>
+    <string name="notification_title">Screen is being kept on</string>
+    <string name="notification_text">Tap to open ScreenKeeper</string>
+
+    <string name="status_on">Screen is being kept on</string>
+    <string name="status_off">Normal screen timeout</string>
+    <string name="action_turn_on">Turn on</string>
+    <string name="action_turn_off">Turn off</string>
+    <string name="start_on_boot">Start automatically after reboot (if it was on)</string>
+
+    <string name="permissions_header">Permissions</string>
+    <string name="overlay_label">Display over other apps</string>
+    <string name="overlay_required">Required – lets it work while other apps are open</string>
+    <string name="notification_label">Notifications</string>
+    <string name="notification_recommended">Recommended – shows the persistent status notification</string>
+    <string name="battery_label">Battery</string>
+    <string name="battery_recommended">Recommended – set to Unrestricted so Samsung does not kill it</string>
+    <string name="battery_unrestricted">Unrestricted</string>
+    <string name="granted">Granted</string>
+    <string name="grant">Grant</string>
+    <string name="allow">Allow</string>
+
+    <string name="note">The screen still turns off if you press the power button, and the lock screen uses its own short timeout. Add the \"Keep screen on\" tile from the Quick Settings edit menu for one-tap control.</string>
+</resources>
