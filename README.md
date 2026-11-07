@@ -12,6 +12,7 @@ Android app that keeps the phone screen on indefinitely, over any app, whether o
 
 - On/off toggle in the app
 - Quick Settings tile ("Keep screen on")
+- Home screen widget ("Keep screen on"): a single button that toggles it and shows On/Off
 - Optional auto-start after reboot (only if it was on before the reboot)
 - Automatically restarts after the app is updated, if it was on
 
@@ -26,6 +27,7 @@ Android app that keeps the phone screen on indefinitely, over any app, whether o
    - **Battery: Unrestricted** (recommended, so Samsung does not kill the service)
 4. Tap **Turn on**.
 5. Optional: pull down Quick Settings, tap the pencil/edit button and drag the **Keep screen on** tile in.
+6. Optional: long-press an empty spot on the home screen, tap **Widgets**, find **ScreenKeeper** and drag the **Keep screen on** widget (1x1) onto the home screen. Tapping it toggles the screen keeper; it is teal when on and grey when off. If "Display over other apps" has not been granted yet, tapping it opens the app instead.
 
 ### Samsung-specific tips
 

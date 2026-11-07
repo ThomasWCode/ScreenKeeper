@@ -3,6 +3,8 @@
     <string name="tile_label">Keep screen on</string>
     <string name="tile_on">On</string>
     <string name="tile_off">Off</string>
+    <string name="widget_description">One tap to keep the screen on or let it time out</string>
+    <string name="widget_state">Keep screen on: %1$s</string>
 
     <string name="channel_name">Keep screen on</string>
     <string name="channel_description">Shown while ScreenKeeper is keeping the display awake</string>
@@ -27,5 +29,5 @@
     <string name="grant">Grant</string>
     <string name="allow">Allow</string>
 
-    <string name="note">The screen still turns off if you press the power button, and the lock screen uses its own short timeout. Add the \"Keep screen on\" tile from the Quick Settings edit menu for one-tap control.</string>
+    <string name="note">The screen still turns off if you press the power button, and the lock screen uses its own short timeout. Add the \"Keep screen on\" tile from the Quick Settings edit menu, or the \"Keep screen on\" widget to your home screen, for one-tap control.</string>
 </resources>

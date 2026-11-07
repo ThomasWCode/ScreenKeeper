@@ -138,6 +138,7 @@ class KeepAwakeService : Service() {
         isRunning = running
         stateListener?.invoke()
         TileService.requestListeningState(this, ComponentName(this, KeepAwakeTileService::class.java))
+        KeepAwakeWidget.update(this)
     }
 
     private fun createChannel() {
